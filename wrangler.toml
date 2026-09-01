@@ -1,0 +1,6 @@
+name = "bluediamond-medhub"
+compatibility_date = "2026-08-26"
+
+# Cloudflare Pages: serve the static site from the repo root.
+# No build step is required — index.html is plain static HTML.
+pages_build_output_dir = "."
